@@ -15,7 +15,9 @@ const {cloudinaryConnect } = require("./config/cloudinary");
 const fileUpload = require("express-fileupload");
 const dotenv = require("dotenv");
 
+
 dotenv.config();
+
 const PORT = process.env.PORT || 4000;
 
 //database connect
@@ -75,4 +77,3 @@ app.listen(PORT, () => {
 	console.log(`App is running at ${PORT}`)
 })
 
-// D:\CODES-wev-Devolopment\mp-7\server\index.js
