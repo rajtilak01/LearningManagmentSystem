@@ -1,7 +1,7 @@
 
 const express = require("express");
 const app = express();
-
+const path = require("path");
 const userRoutes = require("./routes/User");
 const profileRoutes = require("./routes/Profile");
 const paymentRoutes = require("./routes/Payments");
@@ -15,7 +15,9 @@ const {cloudinaryConnect } = require("./config/cloudinary");
 const fileUpload = require("express-fileupload");
 const dotenv = require("dotenv");
 
-dotenv.config();
+// dotenv.config({path:/server/config});
+if(process.env.NODE_ENV!=="production")
+  require("dotenv").config({path:"server/.env"});
 const PORT = process.env.PORT || 4000;
 
 //database connect
@@ -76,3 +78,9 @@ app.listen(PORT, () => {
 })
 
 // D:\CODES-wev-Devolopment\mp-7\server\index.js
+
+// app.use(express.static(path.join(__dirname, "../build")));
+
+// app.get("*", (req, res) => {
+//   res.sendFile(path.resolve(__dirname, "../build/index.html"));
+// });
