@@ -1,5 +1,4 @@
 ![Screenshot (1902)](https://github.com/jaya855/StudyNotion_Final/assets/83960476/f99f332d-8ba0-4708-b76e-347e13bfda85)
-
 ![Screenshot (1901)](https://github.com/jaya855/StudyNotion_Final/assets/83960476/563450b4-101b-42d2-9c88-b91ff88cb496)
 ![Screenshot (1900)](https://github.com/jaya855/StudyNotion_Final/assets/83960476/c37e6abd-6eea-4e54-ad06-60f41c0d1e2c)
 ![Screenshot (1899)](https://github.com/jaya855/StudyNotion_Final/assets/83960476/882640ef-2001-446b-85bf-c98ce9f4d099)
@@ -8,8 +7,6 @@
 ![Screenshot (1896)](https://github.com/jaya855/StudyNotion_Final/assets/83960476/5e5fe56a-4128-4ef1-93ec-e2f248bdfa28)
 ![Screenshot (1895)](https://github.com/jaya855/StudyNotion_Final/assets/83960476/5762ffa7-92d3-4516-8a03-13bd897e29a3)
 ![Screenshot (1894)](https://github.com/jaya855/StudyNotion_Final/assets/83960476/23a5782a-9d34-4c1b-b217-255d8a7d5936)
-![Screenshot (1893)](https://github.com/jaya855/StudyNotion_Final/assets/83960476/4cfdb230-07bc-45ab-ac82-5e042ef59510)
-![Screenshot (1893)](https://github.com/jaya855/StudyNotion_Final/assets/83960476/fc62380c-9b1d-467e-9468-18ca350f3547)
 ![Screenshot (1892)](https://github.com/jaya855/StudyNotion_Final/assets/83960476/bc5013dc-baf3-43fb-825f-4f34e698d728)
 ![Screenshot (1891)](https://github.com/jaya855/StudyNotion_Final/assets/83960476/191e7406-fa80-4135-b432-afcadf3bb527)
 ![Screenshot (1890)](https://github.com/jaya855/StudyNotion_Final/assets/83960476/cefeba60-9472-40ff-ab8e-d3dbc39fe465)
