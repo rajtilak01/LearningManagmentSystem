@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "artgallery",
-    "builds": [{ "src": "/server.js", "use": "@vercel/node" }],
-    "routes": [{ "src": "/(.*)", "dest": "/server.js" }]
+    "name": "StudyNotion",
+    "builds": [{ "src": "/index.js", "use": "@vercel/node" }],
+    "routes": [{ "src": "/(.*)", "dest": "/index.js" }]
   }
