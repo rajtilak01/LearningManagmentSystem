@@ -15,6 +15,8 @@ const {cloudinaryConnect } = require("./config/cloudinary");
 const fileUpload = require("express-fileupload");
 const dotenv = require("dotenv");
 
+
+//dotenv.config();
 // dotenv.config({path:/server/config});
 if(process.env.NODE_ENV!=="production")
   require("dotenv").config({path:"server/.env"});
